@@ -1,0 +1,9 @@
+
+X	java:S125 "<This block of commented-out lines of code should be removed.(¯«Å™8óª“Œ³3
+]	java:S125&"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ8óª“Œ³3
+A
+java:S29250"$Remove this use of "Thread.sleep()".(ïæÛ†8óª“Œ³3
+U
+java:S11178"8Rename "wait" which hides the field declared at line 21.(Ï×¾¢8óª“Œ³3
+S
+java:S1128"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8ƒ«“Œ³3

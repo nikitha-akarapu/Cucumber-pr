@@ -38,5 +38,9 @@ public class LoginPage extends BaseClass {
     return driver.findElement(welcomeTxt).getText();
   }
 
+  public void print(){
+    System.out.println("Checking the checkout branch");
+  }
+
 
 }

@@ -42,5 +42,8 @@ public class LoginPage extends BaseClass {
     System.out.println("Checking the checkout branch");
   }
 
+  public void testingstash(){
+    System.out.println("testing the stash command");
+  }
 
 }

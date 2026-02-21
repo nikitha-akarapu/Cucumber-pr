@@ -38,12 +38,14 @@ public class LoginPage extends BaseClass {
     return driver.findElement(welcomeTxt).getText();
   }
 
+//The below methods are used for practicing the git commands
   public void print(){
     System.out.println("Checking the checkout branch");
   }
 
   public void testingstash(){
     System.out.println("testing the stash command");
+
   }
 
 }
